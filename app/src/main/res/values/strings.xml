@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">おみくじ</string>
+    <string name="bt_action">うらなう</string>
+    <string name="bt_result">運勢を見る</string>
+    <string name="contents1">良縁が持ち込まれるでしょう。</string>
+    <string name="contents2">金運は非常によく、思わぬ収入がありそう。</string>
+    <string name="contents3">気力充実するでしょう。</string>
+    <string name="contents4">金運向上の兆しがありますが無駄遣いは控えましょう。</string>
+    <string name="contents5">恋愛は心掛け次第でしょう。</string>
+    <string name="contents6">健康は可もなく不可もありません。</string>
+    <string name="contents7">金運は、ボランティア活動が上昇のきっかけになるはず。</string>
+    <string name="contents8">恋愛は辛抱が大事です。</string>
+    <string name="contents9">寝不足には注意しましょう。</string>
+</resources>
